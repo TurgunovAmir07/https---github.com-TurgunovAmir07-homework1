@@ -43,6 +43,9 @@
     transform: scale(1.02);
     transition: 0.25s;
 }
+.main_text:hover:before{
+    content: "→   ";
+}
 .MAIN{
     position: absolute;
     top: 15px;
