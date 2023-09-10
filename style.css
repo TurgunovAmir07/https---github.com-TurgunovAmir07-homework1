@@ -1,0 +1,254 @@
+.h22{
+    text-align: center;
+}
+.Me{
+    width: calc(1vw + 150px);
+    height: calc(1vh + 220px);
+    border-radius: 25px;
+    text-align: center;
+    margin: 35px;
+}
+.container{
+    margin-left: 10px;
+    height: 435px;
+    text-align: center;
+    width: 230px;
+    background-color: white;
+    border-radius: 10px;
+    border-style: solid;
+    font-size: 16px;
+}
+#body1{
+    background-color:rgba(255, 255, 255, 0.719);
+    background-image: url(./top-view-desk-with-notebook-and-laptop_23-2148284329.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 800px;
+}
+.main_text{
+    margin: 65px;
+    font-size: calc(1vw + 5.5px);
+    font-style: unset;
+    color: #4c1d1d;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style: none;
+    transition: 0.25s;
+}
+.main_text:hover{
+    color: #e90c0c;
+    cursor: default;
+    transform: scale(1.02);
+    transition: 0.25s;
+}
+.MAIN{
+    position: absolute;
+    top: 15px;
+    left: 175px;
+}
+.conss{
+    margin: 40px;
+    position: absolute;
+    left: 230px;
+    top: 300px;
+    font-size: calc(1vw + 6.5px);
+    transition: 0.1s;
+}
+.conss:hover{
+    transform: scale(1.1);
+    transition: 0.1s;
+    cursor: default;
+}
+.container_2{
+    margin: 40px;
+    position: absolute;
+    left: 180px;
+    top: 328px;
+    font-size: calc(1vw + 5px);
+    display: block;
+}
+.listt{
+    list-style: none;
+    transition: 0.1s;
+    cursor: default;
+}
+.cons_2{
+    margin: 40px;
+    position: absolute;
+    left: 810px;
+    top: 290px;
+    font-size: calc(1vw + 6.5px);
+    transition: 0.1s;
+}
+.cons_2:hover{
+    transform: scale(1.1);
+    transition: 0.1s;
+    cursor: default;
+}
+.container_3{
+    margin: 40px;
+    position: absolute;
+    left: 800px;
+    font-size: calc(1vw + 5px);
+    top: 328px;
+    width: 370px;
+}
+.listt_2{
+    list-style: none;
+    transition: 0.1s;
+}
+.cons_3{
+    margin: 40px;
+    position: absolute;
+    left: 550px;
+    font-size: calc(1vw + 6.5px);
+    top: 490px;
+    transition: 0.1s;
+}
+.cons_3:hover{
+    transform: scale(1.1);
+    transition: 0.1s;
+    cursor: default;
+}
+.container_4{
+    margin: 40px;
+    position: absolute;
+    left: 530px;
+    font-size: calc(1vw + 5px);
+    top: 520px;
+    width: 370px;
+}
+.listt_3{
+    list-style: none;
+    transition: 0.1s;
+}
+.listt:hover{
+    transform: scale(1.02);
+    transition: 0.1s;
+    color: rgb(56, 45, 45);
+    border-style: none;
+    cursor: default;
+}
+.listt_2:hover{
+    transform: scale(1.02);
+    transition: 0.1s;
+    color: rgb(56, 45, 45);
+    border-style: none;
+    cursor: default;
+}
+.listt_3:hover{
+    transform: scale(1.02);
+    transition: 0.1s;
+    color: rgb(56, 45, 45);
+    border-style: none;
+    cursor: default;
+}
+@media screen and (max-width: 1250px) {
+    .cons_2{
+        margin: 40px;
+        position: absolute;
+        left: 180px;
+        top: 490px;
+        font-size: calc(1vw + 6.5px)
+    }
+    .container_3{
+        margin: 40px;
+        position: absolute;
+        left: 130px;
+        font-size: calc(1vw + 5px);
+        top: 520px;
+        width: 370px;
+    }    
+}
+.cons{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: -15px;
+    color: rgb(241, 179, 179);
+}
+.cons2{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(255, 255, 255);
+}
+.name1{
+    text-align: center;
+    margin: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(175, 118, 236);
+}
+.tel1{
+    text-align: center;
+    margin: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(175, 118, 236);
+}
+.email1{
+    text-align: center;
+    margin: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(175, 118, 236);
+}
+#main_list{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.list1{
+    text-align: center;
+    margin: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(175, 118, 236);
+}
+.submit1{
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100px;
+    height: auto;
+    color: rgb(165, 246, 115);
+    background-color: rgb(65, 59, 248);
+    border-color: rgb(0, 0, 0);
+    border-radius: 40%;
+    height: 35px;
+    border-style: none;
+}
+.submit1:hover{
+    background-color: white;
+    color: rgb(65, 59, 248);
+}
+.button{
+    text-align: center;
+}
+#body2{
+    background-image: url(./modern-desktop-background-geometric-blue-design-vector_53876-135923\ —\ копия.avif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: black;
+}
+.text1{
+    font-size: 15px;
+    margin-right: 8px;
+}
+.text2{
+    font-size: 15px;
+    margin-right: 42px;
+}
+.text3{
+    font-size: 15px;
+    margin-right: 7px;
+}
+.text4{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 58px;
+}
+#main_text{
+    text-align: center;
+    margin: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.main_text1{
+    text-align: center;
+    margin: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 10px;
+}
