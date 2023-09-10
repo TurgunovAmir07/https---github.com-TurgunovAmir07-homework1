@@ -66,6 +66,8 @@
     top: 328px;
     font-size: calc(1vw + 5px);
     display: block;
+    display: flex;
+    flex-direction: column;
 }
 .listt{
     list-style: none;
@@ -92,6 +94,8 @@
     font-size: calc(1vw + 5px);
     top: 328px;
     width: 370px;
+    display: flex;
+    flex-direction: column;
 }
 .listt_2{
     list-style: none;
@@ -117,6 +121,8 @@
     font-size: calc(1vw + 5px);
     top: 520px;
     width: 370px;
+    display: flex;
+    flex-direction: column;
 }
 .listt_3{
     list-style: none;
