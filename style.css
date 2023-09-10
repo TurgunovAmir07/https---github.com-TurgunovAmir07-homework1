@@ -268,3 +268,6 @@ form:nth-child(4) {animation: ani 0.5s forwards 0.5s;}
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-bottom: 10px;
 }
+div a{
+    text-decoration: none;
+}
