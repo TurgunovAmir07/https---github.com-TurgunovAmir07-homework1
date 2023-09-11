@@ -54,7 +54,7 @@
 .conss{
     margin: 40px;
     position: absolute;
-    left: 230px;
+    left: 290px;
     top: 300px;
     font-size: calc(1vw + 6.5px);
     transition: 0.1s;
